@@ -20,6 +20,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MafraLP&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
