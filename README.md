@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MafraLP&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/MafraLP/MafraLP/blob/master/images/stat.svg"
   alt="Alternative Text"
 />
 
