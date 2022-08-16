@@ -1,18 +1,18 @@
 
 <!--Titulo-->           
 <h1 align="center">
- 🇧🇷 Olá! me chamo Mafra.
+ [🇧🇷] Olá! me chamo Mafra.
 </h1>
 <p align="center">
- 🇺🇸 Hello! my name is Mafra.
+ [🇺🇸] Hello! my name is Mafra.
 </p>
 <p align="center">
 <img src="https://media3.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif?cid=ecf05e47xx6fyhk8nnij7i7v1wr8yoij8jabs4xuww5k8apm&rid=giphy.gif&ct=s" width="75" height="75"/>
 </p>
 
-<pre>
+<!--<pre>
     
-</pre>
+</pre>-->
 
 <div align="center">
   <a href="https://github.com/MafraLP">
