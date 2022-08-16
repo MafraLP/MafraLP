@@ -2,7 +2,6 @@
 <!--Titulo-->           
 <h1 align="center">
  🇧🇷 Olá! me chamo Mafra.
- <br><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
 </h1>
 <p align="center">
  🇺🇸 Hello! my name is Mafra.
