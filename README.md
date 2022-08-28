@@ -22,10 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 57 mins
+Total Time: 1 hr 18 mins
 
-Java    57 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.66 %
-Other   0 secs          -------------------------   00.34 %
+Java    57 mins         >>>>>>>>>>>>>>>>>>-------   72.92 %
+C       20 mins         >>>>>>>------------------   26.56 %
+Other   0 secs          -------------------------   00.29 %
 ```
 
 <!--END_SECTION:waka-->
