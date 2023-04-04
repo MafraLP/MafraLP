@@ -19,6 +19,14 @@
 
 <div align="center">
 <!--START_SECTION:waka-->
+
+```text
+C++          1 hr 9 mins     █████████████████░░░░░░░░   67.99 %
+PHP          29 mins         ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+```
+
 <!--END_SECTION:waka-->
 
 
