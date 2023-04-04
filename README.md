@@ -16,9 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/MafraLP">
-  <img height="150em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
-<!--   <img height="150em" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=MafraLP&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```text
