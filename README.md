@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZocnlhaGdvYjBxdWJienM1NnNnZGRpOHZ5bTZicDRveXZoeHNqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xozqstIFruLRkc/giphy.gif"/>
 
   # `$ whoami`
-  ## mafra@developer:~$ 
+  ## mafralp@developer:~$ 
 </div>
 
 ```bash
@@ -14,26 +14,21 @@
 </div>
 
 ```bash
-mafra@developer:~$ cat about.txt
-```
+mafralp@developer:~$ cat about.txt
 
-<div align="left">
-
-```
-💡 Transforming ideas into code and making the impossible tangible
-🔮 Creating worlds through lines of code
-🌱 Believing that teaching is the best way to learn
-🚀 Multiplying knowledge to amplify impact
-🎵 Beatlemaniac. (Paul is the best Beatle)
+> 💡 Transforming ideas into code and making the impossible tangible
+> 🔮 Creating worlds through lines of code
+> 🌱 Believing that teaching is the best way to learn
+> 🚀 Multiplying knowledge to amplify impact
+> 🎵 Beatlemaniac. (Paul is the best Beatle)
 ```
 
 </div>
 
 ```bash
-mafra@developer:~$ ls skills/
+mafralp@developer:~$ ls skills/
 ```
-
-<div align="center">
+<div align="center" >
   <code>HTML5</code> • 
   <code>CSS3</code> • 
   <code>JavaScript</code> • 
@@ -45,22 +40,21 @@ mafra@developer:~$ ls skills/
   <code>Firebase</code> • 
   <code>Python</code>
 </div>
-
+  &nbsp;
+  &nbsp;
+  
 ```bash
-mafra@developer:~$ cat inspiration.txt
+mafralp@developer:~$ cat inspiration.txt
+
+> "After all, what is Rock and Roll - John's glasses or Paul's gaze?"
+    - Humberto Gessinger
+
+>  "But I could've told you Vincent, this world was never meant for one as beautiful as you. 
+  Starry, starry night..."
+    - Don McLean
 ```
 
 <div align="left">
-
-```
-"After all, what is Rock and Roll - John's glasses or Paul's gaze?"
-  - Humberto Gessinger (Engenheiros do Hawaii)
-
-"But I could've told you Vincent, this world was never meant for one as beautiful as you. 
-Starry, starry night..."
-  - Don McLean
-
-```
 
 </div>
 <div align="center">
@@ -69,7 +63,7 @@ Starry, starry night..."
 
 
 ```bash
-mafra@developer:~$ stats --summary
+mafralp@developer:~$ stats --summary
 ```
 
 <div align="center">
@@ -79,7 +73,7 @@ mafra@developer:~$ stats --summary
 </div>
 
 ```bash
-mafra@developer:~$ connect
+mafralp@developer:~$ connect
 ```
 
 <div align="center">
