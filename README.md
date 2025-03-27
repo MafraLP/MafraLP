@@ -54,14 +54,19 @@ mafra@developer:~$ cat inspiration.txt
 
 ```
 "After all, what is Rock and Roll - John's glasses or Paul's gaze?"
-  - Inspired by Humberto Gessinger (Engenheiros do Hawaii)
+  - Humberto Gessinger (Engenheiros do Hawaii)
 
-Coding, like music, is both technical and visionary.
-Sometimes it's about the details (the glasses),
-other times it's about the perspective (the gaze).
+"But I could've told you Vincent, this world was never meant for one as beautiful as you. 
+Starry, starry night..."
+  - Don McLean
+
 ```
 
 </div>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk4bXB1bGZyNzZlYWVlZ2pmMDFmZnhueWR1ank4NzFxdTR5N2Y2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URdQtEwqxNhbJF1bhU/giphy.gif"/>
+</div>
+
 
 ```bash
 mafra@developer:~$ stats --summary
